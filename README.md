@@ -13,7 +13,7 @@ Tutorial Video:
 
 Showcase Video: 
 
-Documentation: 
+Full Documentation: 
 
 # Contribution 
 
@@ -21,6 +21,6 @@ Documentation:
 
 # Future Plans 
 
-# Support
+# Support/My Links
 
 # License
