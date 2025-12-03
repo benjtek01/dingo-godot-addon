@@ -40,5 +40,10 @@ If you would like to make changes please send in a feature proposal or bug repor
 - Minimap creation
 
 # Support/My Links
+Donations: https://ko-fi.com/benjtek01
+Website: https://benjtek01.crd.co/
+Disc: benjtek01
+
 
 # License
+https://github.com/benjtek01/dingo-roomgen/blob/main/LICENSE
