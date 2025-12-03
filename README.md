@@ -24,6 +24,7 @@ Showcase Video:
 Full Documentation: 
 
 # Contribution 
+If you would like to make changes please send in a feature proposal or bug report prior to commiting any work or sending PRs! If you would like to implement any listed "future plans" feel free to have a go with it or implementing anything else you think would be helpful for this addon.
 
 # Known Issues/Limitations
 - Corridors can only be of one room type 
