@@ -8,9 +8,10 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <hr/>
 
 # Examples layouts generated & decorated with Dingo!
+<img width="155" height="256" alt="image" src="https://github.com/user-attachments/assets/85cf030e-3436-49c5-8376-ab232d506010" /> <br>
 <img width="262" height="172" alt="image" src="https://github.com/user-attachments/assets/69199d39-4a48-4bd0-9137-1c4e82debd19" />
-<img width="254" height="178" alt="image" src="https://github.com/user-attachments/assets/2f3f85b5-419d-4e9a-8cbd-c24499f9b3a4" />
-<img width="155" height="256" alt="image" src="https://github.com/user-attachments/assets/85cf030e-3436-49c5-8376-ab232d506010" />
+<img width="254" height="178" alt="image" src="https://github.com/user-attachments/assets/2f3f85b5-419d-4e9a-8cbd-c24499f9b3a4" /> <br>
+
 
 <img width="255" height="141" alt="image" src="https://github.com/user-attachments/assets/34e30f32-3c66-461e-aad6-40211642d3d6" />
 <img width="169" height="142" alt="image" src="https://github.com/user-attachments/assets/835bb4cb-e947-4349-bc4d-a1f272b6a943" />
