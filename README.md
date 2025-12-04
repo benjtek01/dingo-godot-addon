@@ -15,6 +15,8 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
   <img width="208" height="340" alt="image" src="https://github.com/user-attachments/assets/711de406-7209-44a7-a35d-7ace8d5c59d6" />
 
 - Decorate rooms with procedurally placed assets, place prebuilt rooms or mix and match.
+
+<img width="218" height="205" alt="image" src="https://github.com/user-attachments/assets/1017335b-154a-40e7-b20f-d1e1b2f478c4" />
 <img width="215" height="200" alt="image" src="https://github.com/user-attachments/assets/340579d1-4440-4314-a5ab-f617641ef95d" />
 
 
