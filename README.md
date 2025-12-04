@@ -1,15 +1,16 @@
 
 
 <img width="6827" height="3399" alt="Dingo Logo-03-01 (4)-01 (1)" src="https://github.com/user-attachments/assets/5a4c11f1-78e4-4377-be55-2e8514855911" />
+<hr/>
 
 # Dingo for Godot 4
 Dingo is a Godot add-on for generating and decorating customizable procedural dungeons/rooms!
+<hr/>
 
 # Features
 - An intuitive interface & workflow, designed with developers, designers, & artists in mind.
  <img width="478" height="353" alt="image" src="https://github.com/user-attachments/assets/d3e5315f-7bf9-4b58-9c28-b112ad4bfbe0" />
 <hr/>
----
 
 - A two step workflow with the ability to generate layouts for rooms using Godot’s gridmap then decorate them with custom meshes and nodes of any kind.
 
