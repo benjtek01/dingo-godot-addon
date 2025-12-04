@@ -20,8 +20,6 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <img width="169" height="142" alt="image" src="https://github.com/user-attachments/assets/835bb4cb-e947-4349-bc4d-a1f272b6a943" />
 <hr/>
 
-
-
 # Features
 - An intuitive interface & workflow, designed with developers, designers, & artists in mind.
  <img width="478" height="353" alt="image" src="https://github.com/user-attachments/assets/d3e5315f-7bf9-4b58-9c28-b112ad4bfbe0" />
@@ -70,7 +68,10 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <img width="643" height="197" alt="image" src="https://github.com/user-attachments/assets/dce5da39-b9bb-4e10-8e5e-7fb88e43edb2" />
 <hr/>
 
-- Adjustable corridor amount to create more complex or simple layouts
+- Adjustable corridor amount to create more complex or simply connected layouts
+<img width="154" height="237" alt="image" src="https://github.com/user-attachments/assets/e82367c8-1d27-47da-925c-08127ba1b2dc" />
+<img width="170" height="240" alt="image" src="https://github.com/user-attachments/assets/312017d6-5ae5-4935-9472-a8d4baa5ec7d" />
+<hr/>
 
 - Printed generation results with the amount of rooms generated per type, generation progress, and coordinates for each room.
 
