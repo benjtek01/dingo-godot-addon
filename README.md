@@ -20,15 +20,20 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <img width="215" height="200" alt="image" src="https://github.com/user-attachments/assets/340579d1-4440-4314-a5ab-f617641ef95d" />
 
 - Dynamic and static modes for sizing - generate sized room types within a range or with specific measurements.
+
 <img width="554" height="89" alt="image" src="https://github.com/user-attachments/assets/1d19a0de-7e51-47bc-8876-1e3231a93e6e" />
 <img width="557" height="114" alt="image" src="https://github.com/user-attachments/assets/1bf24718-5bd5-42c0-9cbc-974308596bd7" />
 
 - Dynamic, static, and ranged modes for room placement - generate room types placed randomly within an area, a range within the area (for biome creation) or at a specific location.
+
 <img width="559" height="95" alt="image" src="https://github.com/user-attachments/assets/026d3f39-400a-46d1-9a43-a086eeecb2af" />
+
 <img width="269" height="296" alt="image" src="https://github.com/user-attachments/assets/66b13f51-e5eb-4797-a5f9-f34b7fb01015" />
 
 - Dynamic and static modes for door placement - generate doors randomly located within a room, or in a specific location within the room (good for irregularly shaped rooms & prebuilt rooms)
+
 <img width="599" height="114" alt="image" src="https://github.com/user-attachments/assets/36c0ab91-d8ff-4570-b611-a542fbde0daa" />
+
 <img width="206" height="175" alt="image" src="https://github.com/user-attachments/assets/b21d98fd-b234-459e-af48-ddc038a882b3" />
 
 
