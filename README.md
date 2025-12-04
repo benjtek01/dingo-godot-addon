@@ -90,16 +90,17 @@ https://www.youtube.com/watch?v=h64U6j_sFgs&list=PLIjshinY7LU9EsAAuCTrfOSs2mxC6G
 Tutorial Video:
 
 Showcase Video: 
-
-Full Documentation: 
+<hr/>
 
 # Contribution 
 If you would like to make changes please send in a feature proposal or bug report prior to commiting any work or sending PRs! If you would like to implement any listed "future plans" feel free to have a go with it or implementing anything else you think would be helpful for this addon.
+<hr/>
 
 # Known Issues/Limitations
 - Corridors can only be of one room type 
 - No seed creation 
 - Large scenes with lots of rooms can crash Godot when the project is opened (to fix this if it occurs, prevent the scene from opening upon startup in Projects → Project Settings → Application → Run → Main Scene)
+<hr/>
 
 # Future Plans 
 - Seed creation
@@ -108,11 +109,13 @@ If you would like to make changes please send in a feature proposal or bug repor
 - LODs
 - Customizable corner tiles for room types
 - Minimap creation
+<hr/>
 
 # Support/My Links
 Donations: https://ko-fi.com/benjtek01
 Website: https://benjtek01.crd.co/
 Disc: benjtek01
+<hr/>
 
 
 # License
