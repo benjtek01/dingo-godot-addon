@@ -16,6 +16,7 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <hr/>
 
 - A “room type” based setup, with the ability to customize individual room types and create complex layouts from them.
+<img width="639" height="142" alt="image" src="https://github.com/user-attachments/assets/b78f013d-4fae-450d-a59c-4733966aca1b" />
 <img width="263" height="173" alt="image" src="https://github.com/user-attachments/assets/a262f4de-f0a1-4e63-a0f0-8c9b20522f99" />
 
 
