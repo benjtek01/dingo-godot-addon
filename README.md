@@ -20,6 +20,14 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <img width="169" height="142" alt="image" src="https://github.com/user-attachments/assets/835bb4cb-e947-4349-bc4d-a1f272b6a943" />
 <hr/>
 
+# Installation & Usage
+
+Tutorial Video:
+
+Showcase Video: 
+<hr/>
+
+
 # Features
 - An intuitive interface & workflow, designed with developers, designers, & artists in mind.
  <img width="478" height="353" alt="image" src="https://github.com/user-attachments/assets/d3e5315f-7bf9-4b58-9c28-b112ad4bfbe0" />
@@ -84,12 +92,6 @@ https://www.youtube.com/watch?v=h64U6j_sFgs&list=PLIjshinY7LU9EsAAuCTrfOSs2mxC6G
 - This is my first Godot addon i've published, so please let me know if you have any critiques or suggestions, I would like to create more addons in the future so I appreciate the feedback
 
 - If you do end up using this plugin, I would be very interested in seeing what you create! Feel free to show me your results in your game or any other projects by contacting me through any of the socials I have linked. I look forward to seeing what the community can create with this tool and how it can be improved 
-
-# Installation & Usage
-
-Tutorial Video:
-
-Showcase Video: 
 <hr/>
 
 # Contribution 
