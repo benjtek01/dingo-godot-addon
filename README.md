@@ -8,6 +8,7 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 # Features
 - An intuitive interface & workflow, designed with developers, designers, & artists in mind.
  <img width="478" height="353" alt="image" src="https://github.com/user-attachments/assets/d3e5315f-7bf9-4b58-9c28-b112ad4bfbe0" />
+ ---
 
 - A two step workflow with the ability to generate layouts for rooms using Godot’s gridmap then decorate them with custom meshes and nodes of any kind.
 
