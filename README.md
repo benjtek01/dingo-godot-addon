@@ -7,10 +7,17 @@
 Dingo is a Godot add-on for generating and decorating customizable procedural dungeons/rooms!
 <hr/>
 
+# Examples layouts generated & decorated with Dingo!
+<hr/>
+
 # Features
 - An intuitive interface & workflow, designed with developers, designers, & artists in mind.
  <img width="478" height="353" alt="image" src="https://github.com/user-attachments/assets/d3e5315f-7bf9-4b58-9c28-b112ad4bfbe0" />
 <hr/>
+
+- A “room type” based setup, with the ability to customize individual room types and create complex layouts from them.
+<img width="263" height="173" alt="image" src="https://github.com/user-attachments/assets/a262f4de-f0a1-4e63-a0f0-8c9b20522f99" />
+
 
 - A two step workflow with the ability to generate layouts for rooms using Godot’s gridmap then decorate them with custom meshes and nodes of any kind.
 
@@ -51,8 +58,6 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <hr/>
 
 - Adjustable corridor amount to create more complex or simple layouts
- 
-- A “room type” based setup, with the ability to customize individual room types and create complex layouts from them.
 
 - Printed generation results with the amount of rooms generated per type, generation progress, and coordinates for each room.
 
