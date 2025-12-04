@@ -36,18 +36,19 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 <img width="269" height="296" alt="image" src="https://github.com/user-attachments/assets/66b13f51-e5eb-4797-a5f9-f34b7fb01015" /> 
 <hr/>
  
-
 - Dynamic and static modes for door placement - generate doors randomly located within a room, or in a specific location within the room (good for irregularly shaped rooms & prebuilt rooms)
 
 <img width="599" height="114" alt="image" src="https://github.com/user-attachments/assets/36c0ab91-d8ff-4570-b611-a542fbde0daa" /> <br>
 <img width="206" height="175" alt="image" src="https://github.com/user-attachments/assets/b21d98fd-b234-459e-af48-ddc038a882b3" />
 <hr/>
  
-
-
 - Layout customizability like room margins, recursion, amount, and priority all adjustable by individual room type,
+<img width="601" height="169" alt="image" src="https://github.com/user-attachments/assets/665f5bec-8e44-42f8-b07a-47d63da1a30b" />
+<hr/>
 
-- Options to guarantee room amounts or set “goal” amounts (good for if you want more rigid or dynamic layouts
+- Options to guarantee room amounts or set “goal” amounts (good for if you want more rigid or dynamic layouts)
+<img width="643" height="197" alt="image" src="https://github.com/user-attachments/assets/dce5da39-b9bb-4e10-8e5e-7fb88e43edb2" />
+<hr/>
 
 - Adjustable corridor amount to create more complex or simple layouts
  
