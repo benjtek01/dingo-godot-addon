@@ -89,6 +89,10 @@ Showcase Video:
 <img width="200" height="346" alt="image" src="https://github.com/user-attachments/assets/00c79ff2-dc38-4d95-9052-52e059e2292f" />
 <hr/>
 
+- Dozens of free dungeon themed assets, and example layouts to use as a base or in your own generations!
+<img width="499" height="110" alt="image" src="https://github.com/user-attachments/assets/5873816d-0f2f-4c6b-99c7-844465ef70af" />
+<hr/>
+
 # Disclaimer
 - This project was built off of this tutorial by quwatz_! I referenced a good amount of their code so please check out their channel :) 
 https://www.youtube.com/watch?v=h64U6j_sFgs&list=PLIjshinY7LU9EsAAuCTrfOSs2mxC6GCyw&index=4
