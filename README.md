@@ -24,9 +24,9 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 
 # Installation & Usage
 
-Tutorial Video:
+Tutorial Video: (In the works!)
 
-Showcase Video: 
+Showcase Video: https://www.youtube.com/watch?v=FkrG9R1dFIs
 <hr/>
 
 
