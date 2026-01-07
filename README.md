@@ -25,17 +25,17 @@ Dingo is a Godot add-on for generating and decorating customizable procedural du
 # Installation & Usage
 
 # Github Download Installation 
-1.) Download the ZIP file from main
-2.) Drag the folder "Dingo - Dungeon Generator Plugin" into your filesystem in Godot (I reccomend creating a folder for it called "addons") 
-3.) Open up one of the example scenes - scenes > example scenes > (ex, scifikit example) 
-4.) Look at the tutorial video on how to use Dingo
+1.) Download the ZIP file from main <br>
+2.) Drag the folder "Dingo - Dungeon Generator Plugin" into your filesystem in Godot (I reccomend creating a folder for it called "addons") <br>
+3.) Open up one of the example scenes - scenes > example scenes > (ex, scifikit example) <br>
+4.) Look at the tutorial video on how to use Dingo <br>
 
 # Godot Asset Library Installation 
-1.) In Godot, open the AssetLib tab
-2.) Search for and select "Dingo"
-3.) Download then install the plugin 
-4.) Enable the plugin inside Project/Project Settings/Plugins.
-5.) Look at the tutorial video on how to use Dingo
+1.) In Godot, open the AssetLib tab<br>
+2.) Search for and select "Dingo"<br>
+3.) Download then install the plugin <br>
+4.) Enable the plugin inside Project/Project Settings/Plugins.<br>
+5.) Look at the tutorial video on how to use Dingo<br>
 
 Tutorial Video: (In the works!)
 
