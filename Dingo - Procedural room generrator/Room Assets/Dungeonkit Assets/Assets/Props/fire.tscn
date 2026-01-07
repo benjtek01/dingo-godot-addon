@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://dh8m60n5hc1s2"]
 
-[ext_resource type="Material" uid="uid://cuiel4vtlu0l" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/fire.tres" id="1_kyo53"]
-[ext_resource type="Material" uid="uid://b0rxwx05guya4" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/smoke.tres" id="2_x6p7q"]
+[ext_resource type="Material" uid="uid://cuiel4vtlu0l" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/fire.tres" id="1_kyo53"]
+[ext_resource type="Material" uid="uid://b0rxwx05guya4" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/smoke.tres" id="2_x6p7q"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_nymwo"]
 blend_mode = 1

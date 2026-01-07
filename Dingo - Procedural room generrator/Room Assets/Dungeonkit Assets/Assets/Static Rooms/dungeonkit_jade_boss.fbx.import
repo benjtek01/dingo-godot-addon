@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d0qjuwy0f1dy5"
-path="res://.godot/imported/dungeonkit_jade_boss.fbx-32b8c31353687708558f51523db8504e.scn"
+path="res://.godot/imported/dungeonkit_jade_boss.fbx-c8479627ddee39b248a479d12440b51b.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_jade_boss.fbx"
-dest_files=["res://.godot/imported/dungeonkit_jade_boss.fbx-32b8c31353687708558f51523db8504e.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_jade_boss.fbx"
+dest_files=["res://.godot/imported/dungeonkit_jade_boss.fbx-c8479627ddee39b248a479d12440b51b.scn"]
 
 [params]
 

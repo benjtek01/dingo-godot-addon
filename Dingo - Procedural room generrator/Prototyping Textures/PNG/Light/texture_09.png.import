@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qdcmf06yb6ym"
-path="res://.godot/imported/texture_09.png-684a5c8910e0f43ec0acd251e8a26dda.ctex"
+path="res://.godot/imported/texture_09.png-fd246b26ae86651ef0d325a90e6e3fd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Prototyping Textures/PNG/Light/texture_09.png"
-dest_files=["res://.godot/imported/texture_09.png-684a5c8910e0f43ec0acd251e8a26dda.ctex"]
+source_file="res://Dingo - Procedural room generrator/Prototyping Textures/PNG/Light/texture_09.png"
+dest_files=["res://.godot/imported/texture_09.png-fd246b26ae86651ef0d325a90e6e3fd2.ctex"]
 
 [params]
 

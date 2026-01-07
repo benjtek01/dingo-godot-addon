@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bkpdj04mn1lk1"
-path="res://.godot/imported/dungeonkit_jade_tex.png-860cca28831955c27180e146c48b819c.ctex"
+uid="uid://55m21egenl32"
+path="res://.godot/imported/Dingo Logo.png-a98a26095e7de4c261e74db117433dc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://dungeonkit_jade_tex.png"
-dest_files=["res://.godot/imported/dungeonkit_jade_tex.png-860cca28831955c27180e146c48b819c.ctex"]
+source_file="res://Dingo - Procedural room generrator/Logo/Dingo Logo.png"
+dest_files=["res://.godot/imported/Dingo Logo.png-a98a26095e7de4c261e74db117433dc5.ctex"]
 
 [params]
 

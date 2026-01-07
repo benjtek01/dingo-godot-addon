@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cil2rvxk3hm5m"
-path="res://.godot/imported/dungeonkit_starting_room.fbx-ed5612d131c7168679099622fb5556b2.scn"
+path="res://.godot/imported/dungeonkit_starting_room.fbx-963b7bc82a3342b8809ea77560b6278c.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_starting_room.fbx"
-dest_files=["res://.godot/imported/dungeonkit_starting_room.fbx-ed5612d131c7168679099622fb5556b2.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_starting_room.fbx"
+dest_files=["res://.godot/imported/dungeonkit_starting_room.fbx-963b7bc82a3342b8809ea77560b6278c.scn"]
 
 [params]
 

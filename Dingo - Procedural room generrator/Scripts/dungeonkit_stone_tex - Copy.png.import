@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw4jesft2o674"
-path="res://.godot/imported/dungeonkit_stone_tex - Copy.png-283fb7297ea37e0073fe2fe5b84342bf.ctex"
+path="res://.godot/imported/dungeonkit_stone_tex - Copy.png-196a19cca7e1e23244714637ef34ec24.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Scripts/dungeonkit_stone_tex - Copy.png"
-dest_files=["res://.godot/imported/dungeonkit_stone_tex - Copy.png-283fb7297ea37e0073fe2fe5b84342bf.ctex"]
+source_file="res://Dingo - Procedural room generrator/Scripts/dungeonkit_stone_tex - Copy.png"
+dest_files=["res://.godot/imported/dungeonkit_stone_tex - Copy.png-196a19cca7e1e23244714637ef34ec24.ctex"]
 
 [params]
 

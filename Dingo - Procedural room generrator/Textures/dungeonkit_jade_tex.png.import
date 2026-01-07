@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ch3kdfcfe6kqe"
-path="res://.godot/imported/texture_04.png-2a51d0537a1c10a2126d8d6ffaa00d4e.ctex"
+uid="uid://bkpdj04mn1lk1"
+path="res://.godot/imported/dungeonkit_jade_tex.png-bf2307f8deb15299ed00979484f54600.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dingo - Procedural room generrator/Prototyping Textures/PNG/Purple/texture_04.png"
-dest_files=["res://.godot/imported/texture_04.png-2a51d0537a1c10a2126d8d6ffaa00d4e.ctex"]
+source_file="res://Dingo - Procedural room generrator/Textures/dungeonkit_jade_tex.png"
+dest_files=["res://.godot/imported/dungeonkit_jade_tex.png-bf2307f8deb15299ed00979484f54600.ctex"]
 
 [params]
 

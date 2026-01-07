@@ -1,7 +1,7 @@
 [gd_resource type="Resource" script_class="RoomType" load_steps=3 format=3 uid="uid://dsqdxsynhssg"]
 
-[ext_resource type="PackedScene" uid="uid://bujpm6ejc6v67" path="res://Dingo - Dungeon Generator Plugin/Scenes/Room Scenes/Dungeonkit Scenes/dungeonkit_stone_standard_scene.tscn" id="1_ak87f"]
-[ext_resource type="Script" uid="uid://dnxnmk7p8ya0s" path="res://Dingo - Dungeon Generator Plugin/Scripts/dingo_room_types.gd" id="1_lu1wr"]
+[ext_resource type="PackedScene" uid="uid://bujpm6ejc6v67" path="res://Dingo - Procedural room generrator/Scenes/Room Scenes/Dungeonkit Scenes/dungeonkit_stone_standard_scene.tscn" id="1_ak87f"]
+[ext_resource type="Script" uid="uid://dnxnmk7p8ya0s" path="res://Dingo - Procedural room generrator/Scripts/dingo_room_types.gd" id="1_lu1wr"]
 
 [resource]
 script = ExtResource("1_lu1wr")
@@ -9,7 +9,7 @@ scene_mode = 1
 dynamic_scenes = Array[PackedScene]([ExtResource("1_ak87f")])
 name = "Dungeonkit Stone Standard"
 priority = 2
-room_amount = 10
+room_amount = 2
 recursion = 200
 tile_id = 3
 room_margin = 1

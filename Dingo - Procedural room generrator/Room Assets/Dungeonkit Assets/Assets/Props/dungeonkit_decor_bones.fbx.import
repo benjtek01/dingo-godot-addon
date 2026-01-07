@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqsxnfmthtau3"
-path="res://.godot/imported/dungeonkit_decor_bones.fbx-25c9fc655c74635a7a4c8f3571393791.scn"
+path="res://.godot/imported/dungeonkit_decor_bones.fbx-886c3f49e6120a53dec68c03b1244df7.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_bones.fbx"
-dest_files=["res://.godot/imported/dungeonkit_decor_bones.fbx-25c9fc655c74635a7a4c8f3571393791.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_bones.fbx"
+dest_files=["res://.godot/imported/dungeonkit_decor_bones.fbx-886c3f49e6120a53dec68c03b1244df7.scn"]
 
 [params]
 

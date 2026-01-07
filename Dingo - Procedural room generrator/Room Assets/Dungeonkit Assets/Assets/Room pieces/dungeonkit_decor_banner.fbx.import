@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://mg1pxck26meq"
-path="res://.godot/imported/dungeonkit_decor_banner.fbx-a01cdc4d9ff88a14f2b8528089d487cf.scn"
+path="res://.godot/imported/dungeonkit_decor_banner.fbx-122f2a232822aaff1d8ae4d0e7e835f4.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Room pieces/dungeonkit_decor_banner.fbx"
-dest_files=["res://.godot/imported/dungeonkit_decor_banner.fbx-a01cdc4d9ff88a14f2b8528089d487cf.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Room pieces/dungeonkit_decor_banner.fbx"
+dest_files=["res://.godot/imported/dungeonkit_decor_banner.fbx-122f2a232822aaff1d8ae4d0e7e835f4.scn"]
 
 [params]
 

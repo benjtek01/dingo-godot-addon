@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jeaw0bcvbitr"
-path.s3tc="res://.godot/imported/Uniqes 2_lambert3SG_Emissive.png-1cb2bca9a6cbf24fdddbc049939499dd.s3tc.ctex"
+path.s3tc="res://.godot/imported/Uniqes 2_lambert3SG_Emissive.png-9b40cbe77762d2d30b85124d66da874a.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Scifikit Assets/Uniqes 2_lambert3SG_Emissive.png"
-dest_files=["res://.godot/imported/Uniqes 2_lambert3SG_Emissive.png-1cb2bca9a6cbf24fdddbc049939499dd.s3tc.ctex"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Scifikit Assets/Uniqes 2_lambert3SG_Emissive.png"
+dest_files=["res://.godot/imported/Uniqes 2_lambert3SG_Emissive.png-9b40cbe77762d2d30b85124d66da874a.s3tc.ctex"]
 
 [params]
 

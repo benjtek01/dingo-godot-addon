@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dlb2p5pdht60a"
-path="res://.godot/imported/dungeonkit_decor_fireplace01.fbx-acc048d244407b342f648a5f1c2ea1ba.scn"
+path="res://.godot/imported/dungeonkit_decor_fireplace01.fbx-2ed1f563667de73aada9ae24fcdf5fb7.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_fireplace01.fbx"
-dest_files=["res://.godot/imported/dungeonkit_decor_fireplace01.fbx-acc048d244407b342f648a5f1c2ea1ba.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_fireplace01.fbx"
+dest_files=["res://.godot/imported/dungeonkit_decor_fireplace01.fbx-2ed1f563667de73aada9ae24fcdf5fb7.scn"]
 
 [params]
 

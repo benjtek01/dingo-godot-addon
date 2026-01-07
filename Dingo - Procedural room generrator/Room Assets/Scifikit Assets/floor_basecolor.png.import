@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bun2abt0k1lwp"
-path.s3tc="res://.godot/imported/floor_basecolor.png-011409a460e055c518ca722dcdb8f893.s3tc.ctex"
+path.s3tc="res://.godot/imported/floor_basecolor.png-d0574ad8bdab757c6c977886b8e7b4b2.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Scifikit Assets/floor_basecolor.png"
-dest_files=["res://.godot/imported/floor_basecolor.png-011409a460e055c518ca722dcdb8f893.s3tc.ctex"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Scifikit Assets/floor_basecolor.png"
+dest_files=["res://.godot/imported/floor_basecolor.png-d0574ad8bdab757c6c977886b8e7b4b2.s3tc.ctex"]
 
 [params]
 

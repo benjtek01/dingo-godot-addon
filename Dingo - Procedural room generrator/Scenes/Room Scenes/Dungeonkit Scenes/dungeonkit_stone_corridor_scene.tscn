@@ -1,12 +1,12 @@
 [gd_scene load_steps=35 format=4 uid="uid://ck720sasqbul1"]
 
-[ext_resource type="Script" uid="uid://cnwyvoopooobm" path="res://Dingo - Dungeon Generator Plugin/Scripts/dingo_remove_pieces.gd" id="1_1k25u"]
-[ext_resource type="Texture2D" uid="uid://bpceaqh876uf8" path="res://Dingo - Dungeon Generator Plugin/Prototyping Textures/PNG/Green/texture_08.png" id="2_c73s1"]
-[ext_resource type="Texture2D" uid="uid://c78oxvhicx825" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Materials/dungeonkit_stone_tex.png" id="3_wh611"]
-[ext_resource type="PackedScene" uid="uid://dh8m60n5hc1s2" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/fire.tscn" id="4_u4xu6"]
-[ext_resource type="Texture2D" uid="uid://dq2mixsofanoi" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Materials/dungeonkit_decor_tex.png" id="5_c73s1"]
-[ext_resource type="Texture2D" uid="uid://bcrfqw8ery5xt" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Materials/dungeonkit_stone_tex - Copy4-01.png" id="5_wh611"]
-[ext_resource type="PackedScene" uid="uid://dp8yyv8fm882v" path="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_window.fbx" id="7_u4xu6"]
+[ext_resource type="Script" uid="uid://cnwyvoopooobm" path="res://Dingo - Procedural room generrator/Scripts/dingo_remove_pieces.gd" id="1_1k25u"]
+[ext_resource type="Texture2D" uid="uid://bpceaqh876uf8" path="res://Dingo - Procedural room generrator/Prototyping Textures/PNG/Green/texture_08.png" id="2_c73s1"]
+[ext_resource type="Texture2D" uid="uid://c78oxvhicx825" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Materials/dungeonkit_stone_tex.png" id="3_wh611"]
+[ext_resource type="PackedScene" uid="uid://dh8m60n5hc1s2" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/fire.tscn" id="4_u4xu6"]
+[ext_resource type="Texture2D" uid="uid://dq2mixsofanoi" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Materials/dungeonkit_decor_tex.png" id="5_c73s1"]
+[ext_resource type="Texture2D" uid="uid://bcrfqw8ery5xt" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Materials/dungeonkit_stone_tex - Copy4-01.png" id="5_wh611"]
+[ext_resource type="PackedScene" uid="uid://dp8yyv8fm882v" path="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_window.fbx" id="7_u4xu6"]
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_i1apo"]
 albedo_texture = ExtResource("2_c73s1")

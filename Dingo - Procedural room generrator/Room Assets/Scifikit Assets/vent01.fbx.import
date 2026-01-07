@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://4fgc5n0mr1wn"
-path="res://.godot/imported/vent01.fbx-257904eedae467d3b3873715e36a394d.scn"
+path="res://.godot/imported/vent01.fbx-057f193837f9de923d43b83da3c7c6c6.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Scifikit Assets/vent01.fbx"
-dest_files=["res://.godot/imported/vent01.fbx-257904eedae467d3b3873715e36a394d.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Scifikit Assets/vent01.fbx"
+dest_files=["res://.godot/imported/vent01.fbx-057f193837f9de923d43b83da3c7c6c6.scn"]
 
 [params]
 

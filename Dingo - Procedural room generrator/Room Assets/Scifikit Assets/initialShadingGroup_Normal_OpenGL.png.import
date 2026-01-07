@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4mw2uqrt3vii"
-path.s3tc="res://.godot/imported/initialShadingGroup_Normal_OpenGL.png-9945bac401851630a007c627a35edfc3.s3tc.ctex"
+path.s3tc="res://.godot/imported/initialShadingGroup_Normal_OpenGL.png-af4dfb41b95712f1ae4d7d96094b5c39.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Scifikit Assets/initialShadingGroup_Normal_OpenGL.png"
-dest_files=["res://.godot/imported/initialShadingGroup_Normal_OpenGL.png-9945bac401851630a007c627a35edfc3.s3tc.ctex"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Scifikit Assets/initialShadingGroup_Normal_OpenGL.png"
+dest_files=["res://.godot/imported/initialShadingGroup_Normal_OpenGL.png-af4dfb41b95712f1ae4d7d96094b5c39.s3tc.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b4i6xh4uulo11"
-path="res://.godot/imported/dungeonkit_stone_door.fbx-56eadc50ac9e880bfc7867adb656a01e.scn"
+path="res://.godot/imported/dungeonkit_stone_door.fbx-3111f0a8854f926f0ad7a6b7b052cfb3.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Room pieces/dungeonkit_stone_door.fbx"
-dest_files=["res://.godot/imported/dungeonkit_stone_door.fbx-56eadc50ac9e880bfc7867adb656a01e.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Room pieces/dungeonkit_stone_door.fbx"
+dest_files=["res://.godot/imported/dungeonkit_stone_door.fbx-3111f0a8854f926f0ad7a6b7b052cfb3.scn"]
 
 [params]
 

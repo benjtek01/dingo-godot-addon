@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://buq63v8hyvbjr"
-path="res://.godot/imported/dungeonkit_decor_pots01.fbx-bd74781a44d992e702d9d2c10cebe92b.scn"
+path="res://.godot/imported/dungeonkit_decor_pots01.fbx-87de09280fd2d8cbbabc2ec2b775af11.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_pots01.fbx"
-dest_files=["res://.godot/imported/dungeonkit_decor_pots01.fbx-bd74781a44d992e702d9d2c10cebe92b.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_pots01.fbx"
+dest_files=["res://.godot/imported/dungeonkit_decor_pots01.fbx-87de09280fd2d8cbbabc2ec2b775af11.scn"]
 
 [params]
 

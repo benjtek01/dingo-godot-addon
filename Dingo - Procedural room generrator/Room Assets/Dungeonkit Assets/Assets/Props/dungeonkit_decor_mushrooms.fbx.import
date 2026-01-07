@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://87u8o4iwvoj2"
-path="res://.godot/imported/dungeonkit_decor_mushrooms.fbx-e25056c1f61157d853d469c06f466879.scn"
+path="res://.godot/imported/dungeonkit_decor_mushrooms.fbx-07f71e272ad8f0e90bcb67f1d7782f0f.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_mushrooms.fbx"
-dest_files=["res://.godot/imported/dungeonkit_decor_mushrooms.fbx-e25056c1f61157d853d469c06f466879.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Props/dungeonkit_decor_mushrooms.fbx"
+dest_files=["res://.godot/imported/dungeonkit_decor_mushrooms.fbx-07f71e272ad8f0e90bcb67f1d7782f0f.scn"]
 
 [params]
 

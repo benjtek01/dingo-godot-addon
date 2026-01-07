@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcrfqw8ery5xt"
-path.s3tc="res://.godot/imported/dungeonkit_stone_tex - Copy4-01.png-fc3b8b89f852c31ae63da4477df5b54e.s3tc.ctex"
+path.s3tc="res://.godot/imported/dungeonkit_stone_tex - Copy4-01.png-536ed757aa339b2dbc0d28ecf8e69061.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Materials/dungeonkit_stone_tex - Copy4-01.png"
-dest_files=["res://.godot/imported/dungeonkit_stone_tex - Copy4-01.png-fc3b8b89f852c31ae63da4477df5b54e.s3tc.ctex"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Materials/dungeonkit_stone_tex - Copy4-01.png"
+dest_files=["res://.godot/imported/dungeonkit_stone_tex - Copy4-01.png-536ed757aa339b2dbc0d28ecf8e69061.s3tc.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddhq7hwratdn8"
-path="res://.godot/imported/dungeonkit_stone_boss.fbx-3da9a5dc73fb5ca18e6aedfdcb9895e3.scn"
+path="res://.godot/imported/dungeonkit_stone_boss.fbx-23ecb44053229ae3979c16c751fbb352.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_stone_boss.fbx"
-dest_files=["res://.godot/imported/dungeonkit_stone_boss.fbx-3da9a5dc73fb5ca18e6aedfdcb9895e3.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_stone_boss.fbx"
+dest_files=["res://.godot/imported/dungeonkit_stone_boss.fbx-23ecb44053229ae3979c16c751fbb352.scn"]
 
 [params]
 

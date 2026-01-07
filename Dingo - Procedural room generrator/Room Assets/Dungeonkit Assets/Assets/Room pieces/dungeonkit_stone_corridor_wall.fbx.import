@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b2cevby2hba0r"
-path="res://.godot/imported/dungeonkit_stone_corridor_wall.fbx-1081ae5c96abf0739b9d9d75623c258b.scn"
+path="res://.godot/imported/dungeonkit_stone_corridor_wall.fbx-46746398be952267e9501065ca380b47.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Room pieces/dungeonkit_stone_corridor_wall.fbx"
-dest_files=["res://.godot/imported/dungeonkit_stone_corridor_wall.fbx-1081ae5c96abf0739b9d9d75623c258b.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Room pieces/dungeonkit_stone_corridor_wall.fbx"
+dest_files=["res://.godot/imported/dungeonkit_stone_corridor_wall.fbx-46746398be952267e9501065ca380b47.scn"]
 
 [params]
 

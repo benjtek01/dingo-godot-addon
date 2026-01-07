@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ctjrif4ryam30"
-path="res://.godot/imported/dungeonkit_magic_boss.fbx-115b6f3538b31919234970351c58c488.scn"
+path="res://.godot/imported/dungeonkit_magic_boss.fbx-bcb67a01abce73ce40035a6a56481157.scn"
 
 [deps]
 
-source_file="res://Dingo - Dungeon Generator Plugin/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_magic_boss.fbx"
-dest_files=["res://.godot/imported/dungeonkit_magic_boss.fbx-115b6f3538b31919234970351c58c488.scn"]
+source_file="res://Dingo - Procedural room generrator/Room Assets/Dungeonkit Assets/Assets/Static Rooms/dungeonkit_magic_boss.fbx"
+dest_files=["res://.godot/imported/dungeonkit_magic_boss.fbx-bcb67a01abce73ce40035a6a56481157.scn"]
 
 [params]
 
